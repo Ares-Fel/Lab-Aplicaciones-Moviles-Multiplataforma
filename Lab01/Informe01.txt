@@ -1,0 +1,21 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Tenemos que tener instalado el gestor de paquetes npm, el cual nos permitira la creacion del proyecto en react
+* Para iniciar nuestro proyecto debemos ejecutar el comando npm start, pero primero debemos situarnos en la misma carpeta donde habiamos creado el proyecto.
+* Para actualizar los cambios hechos en nuestra aplicacion, podemos seleccionar la opcion de hot reload enables, que nos permite ver los cambios e tiempo real.
+* Para crear las funciones en el curso utilizaremos las de tipo flecha
+que son solo otra forma de crearlas.
+* La forma de trabajar en JavaScript es mediate modulos, cada uno debe cumplir una funcion inddependddiente, para comunicarlos entre si podemos importarlos
+* El uso de arrays sera muy importante en los laboratorios como tambien conocer sus funciones.

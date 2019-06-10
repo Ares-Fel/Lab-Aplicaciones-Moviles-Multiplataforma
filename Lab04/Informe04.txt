@@ -1,0 +1,24 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+3.4. Vemos que los tres contaor son indepenientes al momento incrementar o disunuir su valores.
+5.3. Los contadores se recargan al valor indicado, se puede aumentar y disminuir desde ese valor inicial. => 5.3.png
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Debemos importar el componente creado, en el archivo App.js especificando su ruta, para poder llamarlo y utilizarlo en nuestra aplicacion.
+* Debemos notar que si hace algun cambio en el codigo de javascript debemos reiniciar la aplicacion para que los cambios se efectuen.
+* Observar que sa ha importado todo lo necesario para el uso de las etieuetas propias de react-native como TextInputs, Image, StyleSheet
+* Para saber si un componente ha tenido cambios y que se recarguen, podemos hacer uso de la funcion componentDidUpdate
+* setState nos permite establcer el valor del estado nuevamente, es decir es la forma correcta de asignarle un nuevo valor a los elementos de estado del componente.
+* Como sabemos es importante importar el componente en la cabecera para poder llamrlo dentro de nuestro codigo.
+* Pasar variables desde un input a un componente se hace mediante sus propiedades, las cuales deben ser recepcionandas y asignadas al componente.

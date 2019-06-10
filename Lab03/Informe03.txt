@@ -1,0 +1,20 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+3.9. Vemos que la imagen se muestra en el dispositivo => 3.9.jpeg
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+*Para poder visualizar y colocar una imagen tenemos que agregar "Image" dentro de Import
+*Hot Reload permite visualiar los cambios en tiempo real, apreciando directamente los cambios al momento de guardar en el editor.
+*Vemos que se puede dar estilo entrando directamente a las propiedades que se crearon en la parte de styles
+*React Native tiene su propio etiquetado, una principal diferencia del de HTML es la mayuscula al iniciar la palabra y que se tienen que importar para usarlos.

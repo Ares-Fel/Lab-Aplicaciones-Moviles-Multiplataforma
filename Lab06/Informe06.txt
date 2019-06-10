@@ -1,0 +1,25 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+1.3 Se ha completado la insalacion de las dependdencias correctamente => dependencias.png
+
+1.10 El error ebcontrado fue que no se declaro la variable y no la encuentra. Se declaro coomo Home debiendo ser HomeScreen. => error.png
+
+3.1 La propieda title permite que el navigator tenga un nombre o un titulo => generico.gif
+
+3.4 Vemos la funcionalidad de la vista perfil => perfil.gif
+
+4.3 Vemos el menu lateral => menuLateral.gif
+
+4.4 Navegacion con tabs => tabs.gif
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+*

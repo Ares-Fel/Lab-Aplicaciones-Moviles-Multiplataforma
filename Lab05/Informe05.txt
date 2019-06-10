@@ -1,0 +1,25 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+1.2. Vemos el contador en la aplicacion => gifContador.gif
+1.4. Vemos el reloj de nuestra aplicacion => gifReloj.gif
+2.3. Usando keyexttractor cada item tien una propiedad key => keyextractor.png
+2.4. Vemos los estilos en cada fila y que podemos pasarla como data un arreglo de nombres => listado.png
+2.5. => apellidosAlert.gif
+2.7. => filtro.gif
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Hemos podido crear un contador con intervaos de etiempo mediante la funcion nativa de JavaScript setInterval; nos permite modificar, en este caso, el estado del componente cada segundo.
+* Recordar que al ingresar un nuevo componente se debe importar en la parte superior en este caso FlatList
+* La propiedad data el FlatList es quien recibe la informacion en un arreglo para poder ser renderizada por renderItem, que asigna un key a cada item de la data.
+* Si no se asigna una key a los items se puede usar keyextractor que asigna una a cada item.
+* Mediante axios podemos hacer peticiones a la API mediente un metodo get, la respuesta se guarda en la variable response , de donde podemos sacar las propiedades del esa respuesta.
