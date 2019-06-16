@@ -9,7 +9,7 @@ Desarrollo
 
 1.3 Se ha completado la insalacion de las dependdencias correctamente => dependencias.png
 
-1.10 El error ebcontrado fue que no se declaro la variable y no la encuentra. Se declaro coomo Home debiendo ser HomeScreen. => error.png
+1.10 El error ebcontrado fue que no se declaro la variable y no la encuentra. Se declaro como Home debiendo ser HomeScreen. => error.png
 
 3.1 La propieda title permite que el navigator tenga un nombre o un titulo => generico.gif
 
@@ -22,4 +22,7 @@ Desarrollo
 
 Conclusiones
 
-*
+* Mediante un navigation podemos dirigirnos a otra vista si le asignamos una funcionalidad como un boton, al darle clic la vista asignada se abrira.
+* Podemos crear las vistas en una carpeta distinta para mantener u orden, pero lueg deberan ser llamadas en app.js para ser usadas, las acciones seran seran las mismas.
+* El paso de variables entre vistas es posible, mediante una variable que lo alamcena , la otra vista recibe esa variable para ser utilizada.
+* Depeniendo si es createrDrawerNavigater o createBottomNavigator podemos asignarle el comportamiento entre vistas, es decir si es mediante panel lateral o botones de navegacion.
