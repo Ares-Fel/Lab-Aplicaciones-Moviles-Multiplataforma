@@ -7,9 +7,22 @@ Aplicaciones Moviles Multiplataforma
 
 Desarrollo
 
+3.8 Estamos usando el tipo de entrada de texto fumi
+	imagen adjunta => fumi.png
+
+4.3 ScreenShoot de como esta quedando la aplicacion
+	Imagen adjunta => 4.3.png
+4.4 Vemos el boton de inicar sesion con el efecto de opacidad
+	Imagen adjunta => opacidad.gif
+
+5.2 Se implementado el link para crear un nuevo usuario y la validacion si los campos estan vacios.
+	Imagen adjunta => 5.2.gif
 
 --------------------------------------------------------------------------------
 
 Conclusiones
 
-*
+* Para manejar el estilo de letras o textos, es el mismo que css, son la diferenecia que no leva guiones, lleva la mayuscula de la palabra que le sigue
+* Vemos que hemos usado Fumi que es simplemente un tipo de entrada de texto el cual tiene propiedades para modificar su visualizacion y efectos, muy util para mejorar la presentacion de una aplicacion.
+* El boton de inicio de sesion nos manda a la funcion onSubmitHandler, esta funcion tiene un axios que consulta a una url para el logeo y lo valida.
+* La libreria icons nos brinda diversos tipos de iconos para ser usados, en las propiedad icon de Fumi, el formato actual es ios-(nombre de icono), de otra forma no reconocera.
