@@ -1,0 +1,22 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Realizamos la conexion de nuestra api dawa-api de un laborotario anterior, para crear los usuarios e ingresar.
+* La funcion KeyBoardAvoidingView permite tener una mejor presentacion de la interfaz sobre todo en dipositivos mas pequeños, porque suele suceder que al mostrarse el teclado se tapan algunos elementos y esta funcion arregla este problema.
+*La insercion de iconos en TextInputs se logra mediante el elemento icon dentro del mismo view que contiene el Fumi
+*Fumi permite la seguridad en contraseñas, como colocarlas como ocultas.
+* Para colocar gif y que este tenga la animacion es ecesario implementar Aniated-gif en el gradle de nuestra aplicacion
+*Los modales son como ventanas que pueden abrirse sobre la panatalla o vista principal, se es puede asignar elementos como cualquier otra vista.
+
