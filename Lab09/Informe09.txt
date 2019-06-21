@@ -12,6 +12,10 @@ Desarrollo
 3.3 La camara se activa y necesita permisos.
 	Imagen adjunta => camara.gif
 
+4.2 Se hacreao la carpeta upload que contiene os snaps relizados desde la aplicacion
+	Imagen adjunta => cameraApp.png
+	Imagen adjunta => carpetaUpldoas.png
+
 --------------------------------------------------------------------------------
 
 Conclusiones
