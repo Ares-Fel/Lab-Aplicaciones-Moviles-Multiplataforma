@@ -8,18 +8,21 @@ Aplicaciones Moviles Multiplataforma
 Desarrollo
 
 
+3.0 Vemos que podemos acceder a la ubicacion actual, nuestra posicion en el mapa
+	Imagen addjunta => mapa.gif
+5.0 En este punto vemos como se muestra el marcador en la posicion actual del gps
+	Imagen adjunta => marcador.gif
 
+6.0 Aqui colocamos un boon para que la aplicacioni se mas entendible, cn boton de regreso
+	imagen adjunta => boton.gif
 
 --------------------------------------------------------------------------------
 
 Conclusiones
 
-- Los permisos en el dispositivo fisico generaban un error(supuestamente
-      
-
-
-CONCLUSIONES:
-
      
+* Debemos tener una key propia para poder usar la API de google maps de lo contrario el mapa no se mostrara en la aplicacion.
+* Agregamos marcadores para tener alguno puntos en nuestro mapa
+* Se agrego el estilo de pantalla completa al mapa para mas comodidad de uso, al igual que algunos botones como volver al chat, y dar una mejor experiencia de usuario.
 
 
