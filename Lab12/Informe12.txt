@@ -1,0 +1,28 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+2.0 Generamos la vista de setting para que muestre la configuracion, podemos incluir switch, headers. Tambien el evento onPres al cual solo demos un alert para verificar su fncionamiento
+	Imagen adjunta => settings.gif
+
+3.0 La funcio loadMoreData permite cargar mas informacion, en esta caso la de la siguiente pagina.
+El numero de paginas se controla con un contador
+	Imagen ajunta => listado.gif
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+*en la vista settings modificamos los iconos y utilizamos SettingList que permite crear un componente para crear la configuracion (formulario).
+
+*Settinglist cuenta co dierentes opcines de configuracion como headers, item, tambien incuye la opcion de presionar, onpress.
+
+*En las funciones componentDidMount, loadMoreData siempre llamamos a nuestra API para cargar la informacion al inicio
+ 
+
