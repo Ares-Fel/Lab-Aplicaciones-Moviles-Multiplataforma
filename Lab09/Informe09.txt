@@ -1,0 +1,22 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+2.2 Instalamos las dependencias para poder usar la camara
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Multer es un middleware node.js para el manejo multipart/form-data, que se utiliza principalmente para cargar archivos. 
+* Creamos un componente Camara que permite implementarle permisos para acceder a la camara del dispoitivo como al auddio. Al ejecutar la app deberia pedir permisos.
+* Se puede agregar botones a los modales, n este laboratorio se creo un boton para acceder a la vista camara.
+* La manera de guardar los datos como images es haciendo un peticion post meddiante axios, se encargara de colocar los datos en la carpeta uploads.
+
+
+
