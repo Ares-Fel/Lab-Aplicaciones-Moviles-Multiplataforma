@@ -9,6 +9,9 @@ Desarrollo
 
 2.2 Instalamos las dependencias para poder usar la camara
 
+3.3 La camara se activa y necesita permisos.
+	Imagen adjunta => camara.gif
+
 --------------------------------------------------------------------------------
 
 Conclusiones
