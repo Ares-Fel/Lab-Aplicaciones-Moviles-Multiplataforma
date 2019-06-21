@@ -9,6 +9,12 @@ Desarrollo
 
 2.4	Imagen addjunta => 2.4.png
 
+2.6 Captura del log de la consola
+	Imagen adjunta => log.png
+
+3.8 Vemos el chat 
+	Imagen adjunta del chat => Imagen adjunta => chat.gif
+
 
 --------------------------------------------------------------------------------
 
