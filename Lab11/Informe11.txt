@@ -1,0 +1,27 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+3.6 Vemos la vista e bienvenida o e inicio del usuario
+	Imagen adjunta => bienvenido.png
+
+4.6 Agregamos el email del usuario para jalar el avatar que corresponde
+	Imagen adjunta => perfil.png
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* En la vsta de perfil jaamos la imagen de l cooreo del usuario conectao con md5
+
+* La vista de eitar usuario no se le ha implementado ninguna funcionalidad
+
+* Las vistas añadidas: lists, setting, profile, profilEdit solo muestran un mensaje simple al perfi se puede acceder y luego a editarlo.
+
+
